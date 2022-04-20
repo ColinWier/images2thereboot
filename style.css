@@ -1,0 +1,18 @@
+img {
+	width: 200px;
+	float:left;
+}
+body {
+	background-color: grey;
+}
+p{
+	color:white;
+}
+
+.photo1 {
+	border-radius: 30px 50px;
+}
+
+.photo2 {
+	border-radius: 100px 50px;
+}
